@@ -1,0 +1,9 @@
+saucedemo\LoginTest.class
+saucedemo\LoginPage.class
+saucedemo\BaseTest.class
+utility\ExcelUtil.class
+utility\ReadConfig.class
+utility\ExcelUtil2.class
+utility\Constants.class
+saucedemo\AddProduct.class
+saucedemo\ProductPage.class

@@ -1,0 +1,455 @@
+2023-01-09 16:57:20,636 - SauceDemo Application Module -INFO - launching application
+2023-01-09 16:57:20,646 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 16:57:24,608 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 16:57:27,859 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 16:57:27,869 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 16:57:27,976 - SauceDemo Application Module -INFO - enter password
+2023-01-09 16:57:28,079 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 16:57:31,248 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 16:57:36,480 - SauceDemo Application Module -INFO - closing application
+2023-01-09 17:05:12,692 - SauceDemo Application Module -INFO - launching application
+2023-01-09 17:05:12,698 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 17:05:16,039 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 17:05:19,280 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 17:05:19,289 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 17:05:19,409 - SauceDemo Application Module -INFO - enter password
+2023-01-09 17:05:19,530 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 17:05:22,703 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 17:05:28,113 - SauceDemo Application Module -INFO - closing application
+2023-01-09 17:08:02,263 - SauceDemo Application Module -INFO - launching application
+2023-01-09 17:08:02,269 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 17:08:05,515 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 17:08:08,786 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 17:08:08,799 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 17:08:08,937 - SauceDemo Application Module -INFO - enter password
+2023-01-09 17:08:09,089 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 17:08:12,254 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 17:08:17,480 - SauceDemo Application Module -INFO - closing application
+2023-01-09 17:11:26,552 - SauceDemo Application Module -INFO - launching application
+2023-01-09 17:11:26,560 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 17:11:29,835 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 17:11:33,108 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 17:11:33,118 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 17:11:33,243 - SauceDemo Application Module -INFO - enter password
+2023-01-09 17:11:33,339 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 17:11:36,501 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 17:11:41,734 - SauceDemo Application Module -INFO - closing application
+2023-01-09 17:52:22,747 - SauceDemo Application Module -INFO - launching application
+2023-01-09 17:52:22,754 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 17:52:25,440 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 17:52:28,640 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 17:52:28,648 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 17:52:28,754 - SauceDemo Application Module -INFO - enter password
+2023-01-09 17:52:28,833 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 17:52:31,983 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 17:52:37,161 - SauceDemo Application Module -INFO - closing application
+2023-01-09 17:53:40,157 - SauceDemo Application Module -INFO - launching application
+2023-01-09 17:53:40,163 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 17:53:42,775 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 17:53:45,979 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 17:53:45,990 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 17:53:46,096 - SauceDemo Application Module -INFO - enter password
+2023-01-09 17:53:46,188 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 17:53:49,350 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 17:53:54,577 - SauceDemo Application Module -INFO - closing application
+2023-01-09 17:58:24,621 - SauceDemo Application Module -INFO - launching application
+2023-01-09 17:58:24,627 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 17:58:27,721 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 17:58:30,931 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 17:58:30,941 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 17:58:31,065 - SauceDemo Application Module -INFO - enter password
+2023-01-09 17:58:31,157 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 17:58:34,330 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 17:58:39,467 - SauceDemo Application Module -INFO - closing application
+2023-01-09 17:59:55,418 - SauceDemo Application Module -INFO - launching application
+2023-01-09 17:59:55,425 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 17:59:57,986 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 18:00:01,215 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 18:00:01,221 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 18:00:01,327 - SauceDemo Application Module -INFO - enter password
+2023-01-09 18:00:01,420 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 18:00:04,570 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 18:00:09,659 - SauceDemo Application Module -INFO - Cart Value is: ADD TO CART
+2023-01-09 18:00:31,109 - SauceDemo Application Module -INFO - launching application
+2023-01-09 18:00:31,115 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 18:00:33,653 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 18:00:33,907 - SauceDemo Application Module -INFO - closing application
+2023-01-09 18:00:36,866 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 18:00:36,877 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 18:00:36,967 - SauceDemo Application Module -INFO - enter password
+2023-01-09 18:00:37,069 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 18:00:40,223 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 18:00:45,387 - SauceDemo Application Module -INFO - Cart Value is: ADD TO CART
+2023-01-09 18:00:53,601 - SauceDemo Application Module -INFO - closing application
+2023-01-09 18:03:08,260 - SauceDemo Application Module -INFO - launching application
+2023-01-09 18:03:08,266 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 18:03:11,058 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 18:03:14,312 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 18:03:14,320 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 18:03:14,403 - SauceDemo Application Module -INFO - enter password
+2023-01-09 18:03:14,479 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 18:03:17,646 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 18:03:22,792 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-09 18:03:31,021 - SauceDemo Application Module -INFO - closing application
+2023-01-09 18:04:25,970 - SauceDemo Application Module -INFO - launching application
+2023-01-09 18:04:25,978 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 18:04:28,775 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 18:04:32,036 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 18:04:32,048 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 18:04:32,129 - SauceDemo Application Module -INFO - enter password
+2023-01-09 18:04:32,208 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 18:04:35,335 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 18:04:40,442 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-09 18:04:48,544 - SauceDemo Application Module -INFO - closing application
+2023-01-09 18:18:20,785 - SauceDemo Application Module -INFO - launching application
+2023-01-09 18:18:20,792 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 18:18:23,521 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 18:18:26,746 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 18:18:26,753 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 18:18:26,841 - SauceDemo Application Module -INFO - enter password
+2023-01-09 18:18:26,920 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 18:18:30,037 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 18:18:35,162 - SauceDemo Application Module -INFO - closing application
+2023-01-09 18:30:09,979 - SauceDemo Application Module -INFO - launching application
+2023-01-09 18:30:09,988 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-09 18:30:12,723 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-09 18:30:15,981 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-09 18:30:15,990 - SauceDemo Application Module -INFO - enter userName
+2023-01-09 18:30:16,068 - SauceDemo Application Module -INFO - enter password
+2023-01-09 18:30:16,135 - SauceDemo Application Module -INFO - click on login button
+2023-01-09 18:30:19,245 - SauceDemo Application Module -INFO - Select First Product
+2023-01-09 18:30:24,351 - SauceDemo Application Module -INFO - closing application
+2023-01-10 11:26:07,345 - SauceDemo Application Module -INFO - launching application
+2023-01-10 11:26:07,361 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-10 11:26:12,232 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-10 11:26:15,421 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-10 11:26:15,431 - SauceDemo Application Module -INFO - enter userName
+2023-01-10 11:26:15,548 - SauceDemo Application Module -INFO - enter password
+2023-01-10 11:26:15,639 - SauceDemo Application Module -INFO - click on login button
+2023-01-10 11:26:40,157 - SauceDemo Application Module -INFO - closing application
+2023-01-11 19:25:23,526 - SauceDemo Application Module -INFO - launching application
+2023-01-11 19:25:23,537 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-11 19:25:28,926 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-11 19:25:32,166 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-11 19:25:32,182 - SauceDemo Application Module -INFO - enter userName
+2023-01-11 19:25:32,335 - SauceDemo Application Module -INFO - enter password
+2023-01-11 19:25:32,436 - SauceDemo Application Module -INFO - click on login button
+2023-01-11 19:25:35,622 - SauceDemo Application Module -INFO - Select First Product
+2023-01-11 19:25:40,735 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-11 19:25:49,003 - SauceDemo Application Module -INFO - closing application
+2023-01-11 20:52:32,479 - SauceDemo Application Module -INFO - launching application
+2023-01-11 20:52:32,485 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-11 20:52:36,419 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-11 20:52:39,665 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-11 20:52:39,674 - SauceDemo Application Module -INFO - enter userName
+2023-01-11 20:52:39,795 - SauceDemo Application Module -INFO - enter password
+2023-01-11 20:52:39,922 - SauceDemo Application Module -INFO - click on login button
+2023-01-11 20:52:43,138 - SauceDemo Application Module -INFO - Select First Product
+2023-01-11 20:52:50,547 - SauceDemo Application Module -INFO - closing application
+2023-01-11 20:56:32,501 - SauceDemo Application Module -INFO - launching application
+2023-01-11 20:56:32,507 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-11 20:56:35,313 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-11 20:56:38,536 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-11 20:56:38,546 - SauceDemo Application Module -INFO - enter userName
+2023-01-11 20:56:38,648 - SauceDemo Application Module -INFO - enter password
+2023-01-11 20:56:38,738 - SauceDemo Application Module -INFO - click on login button
+2023-01-11 20:56:41,893 - SauceDemo Application Module -INFO - Select First Product
+2023-01-11 20:56:52,323 - SauceDemo Application Module -INFO - closing application
+2023-01-11 20:59:43,635 - SauceDemo Application Module -INFO - launching application
+2023-01-11 20:59:43,643 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-11 20:59:46,499 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-11 20:59:49,739 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-11 20:59:49,750 - SauceDemo Application Module -INFO - enter userName
+2023-01-11 20:59:49,894 - SauceDemo Application Module -INFO - enter password
+2023-01-11 20:59:49,989 - SauceDemo Application Module -INFO - click on login button
+2023-01-11 20:59:53,140 - SauceDemo Application Module -INFO - Select First Product
+2023-01-11 20:59:53,221 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-11 20:59:55,232 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-11 20:59:57,322 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-11 20:59:57,323 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-11 20:59:57,398 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-11 21:00:02,632 - SauceDemo Application Module -INFO - closing application
+2023-01-11 21:30:02,218 - SauceDemo Application Module -INFO - launching application
+2023-01-11 21:30:02,224 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-11 21:30:05,182 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-11 21:30:08,411 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-11 21:30:08,419 - SauceDemo Application Module -INFO - enter userName
+2023-01-11 21:30:08,518 - SauceDemo Application Module -INFO - enter password
+2023-01-11 21:30:08,621 - SauceDemo Application Module -INFO - click on login button
+2023-01-11 21:30:11,781 - SauceDemo Application Module -INFO - Select First Product
+2023-01-11 21:30:11,855 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-11 21:30:13,864 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-11 21:30:15,946 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-11 21:30:15,947 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-11 21:30:16,023 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-11 21:30:16,066 - SauceDemo Application Module -INFO - The cart value is: 1
+2023-01-11 21:30:21,311 - SauceDemo Application Module -INFO - closing application
+2023-01-12 12:51:03,550 - SauceDemo Application Module -INFO - launching application
+2023-01-12 12:51:03,558 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 12:51:07,552 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 12:51:10,761 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 12:51:10,771 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 12:51:10,880 - SauceDemo Application Module -INFO - enter password
+2023-01-12 12:51:10,969 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 12:51:14,123 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 12:51:14,173 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-12 12:51:16,189 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 12:51:18,267 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-12 12:51:18,268 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 12:51:18,349 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-12 12:51:23,485 - SauceDemo Application Module -INFO - closing application
+2023-01-12 13:10:59,415 - SauceDemo Application Module -INFO - launching application
+2023-01-12 13:10:59,420 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 13:11:03,576 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 13:11:06,803 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 13:11:06,814 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 13:11:06,949 - SauceDemo Application Module -INFO - enter password
+2023-01-12 13:11:07,088 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 13:11:10,261 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 13:11:10,326 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-12 13:11:12,331 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 13:11:14,406 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-12 13:11:14,407 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 13:11:14,511 - SauceDemo Application Module -INFO - The cart value is: null
+2023-01-12 13:11:19,683 - SauceDemo Application Module -INFO - closing application
+2023-01-12 13:15:38,176 - SauceDemo Application Module -INFO - launching application
+2023-01-12 13:15:38,181 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 13:15:41,477 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 13:15:44,692 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 13:15:44,706 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 13:15:44,829 - SauceDemo Application Module -INFO - enter password
+2023-01-12 13:15:45,009 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 13:15:48,244 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 13:15:55,589 - SauceDemo Application Module -INFO - closing application
+2023-01-12 14:15:18,972 - SauceDemo Application Module -INFO - launching application
+2023-01-12 14:15:18,980 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 14:15:22,663 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 14:15:25,882 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 14:15:25,894 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 14:15:25,991 - SauceDemo Application Module -INFO - enter password
+2023-01-12 14:15:26,072 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 14:15:29,219 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 14:15:31,354 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 14:15:33,470 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 14:15:56,866 - SauceDemo Application Module -INFO - closing application
+2023-01-12 14:19:04,489 - SauceDemo Application Module -INFO - launching application
+2023-01-12 14:19:04,500 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 14:19:07,426 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 14:19:10,660 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 14:19:10,669 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 14:19:10,767 - SauceDemo Application Module -INFO - enter password
+2023-01-12 14:19:10,856 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 14:19:14,041 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 14:19:16,117 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 14:19:16,118 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 14:19:18,192 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 14:19:18,192 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 14:19:20,306 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 14:19:25,462 - SauceDemo Application Module -INFO - closing application
+2023-01-12 14:25:58,565 - SauceDemo Application Module -INFO - launching application
+2023-01-12 14:25:58,574 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 14:26:01,307 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 14:26:04,525 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 14:26:04,534 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 14:26:04,634 - SauceDemo Application Module -INFO - enter password
+2023-01-12 14:26:04,718 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 14:26:07,867 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 14:26:10,016 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 14:26:10,018 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 14:26:12,132 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-12 14:26:12,132 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 14:26:14,247 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 14:26:19,500 - SauceDemo Application Module -INFO - closing application
+2023-01-12 14:29:09,908 - SauceDemo Application Module -INFO - launching application
+2023-01-12 14:29:09,914 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 14:29:12,507 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 14:31:15,736 - SauceDemo Application Module -INFO - launching application
+2023-01-12 14:31:15,747 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 14:31:18,624 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 14:31:21,870 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 14:31:21,880 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 14:31:22,003 - SauceDemo Application Module -INFO - enter password
+2023-01-12 14:31:22,088 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 14:31:25,243 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 14:31:27,362 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 14:31:27,362 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 14:31:29,451 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 14:31:29,451 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 14:31:31,550 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 14:31:36,769 - SauceDemo Application Module -INFO - closing application
+2023-01-12 17:19:16,241 - SauceDemo Application Module -INFO - launching application
+2023-01-12 17:19:16,246 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 17:19:20,050 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 17:19:23,304 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 17:19:23,312 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 17:19:23,412 - SauceDemo Application Module -INFO - enter password
+2023-01-12 17:19:23,496 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 17:19:26,712 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 17:19:28,794 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 17:19:28,796 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 17:19:30,882 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 17:19:30,882 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 17:19:32,952 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 17:19:38,163 - SauceDemo Application Module -INFO - closing application
+2023-01-12 17:20:52,005 - SauceDemo Application Module -INFO - launching application
+2023-01-12 17:20:52,011 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 17:20:54,956 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 17:20:58,179 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 17:20:58,186 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 17:20:58,283 - SauceDemo Application Module -INFO - enter password
+2023-01-12 17:20:58,371 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 17:21:01,528 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 17:21:03,623 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 17:21:03,625 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 17:21:05,708 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 17:21:05,709 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 17:21:07,813 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 17:21:12,999 - SauceDemo Application Module -INFO - closing application
+2023-01-12 17:28:55,730 - SauceDemo Application Module -INFO - launching application
+2023-01-12 17:28:55,736 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 17:28:58,828 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 17:29:02,087 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 17:29:02,098 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 17:29:02,200 - SauceDemo Application Module -INFO - enter password
+2023-01-12 17:29:02,291 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 17:29:05,448 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 17:29:07,501 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 17:29:07,502 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 17:29:09,606 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 17:29:09,607 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 17:29:11,699 - SauceDemo Application Module -INFO - Cart Value is: null
+2023-01-12 17:29:16,896 - SauceDemo Application Module -INFO - closing application
+2023-01-12 17:30:08,874 - SauceDemo Application Module -INFO - launching application
+2023-01-12 17:30:08,886 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 17:30:11,895 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 17:30:15,138 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 17:30:15,147 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 17:30:15,238 - SauceDemo Application Module -INFO - enter password
+2023-01-12 17:30:15,327 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 17:30:18,511 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 17:30:20,629 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 17:30:20,630 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 17:30:22,760 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-12 17:30:22,760 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 17:30:24,931 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 17:30:30,150 - SauceDemo Application Module -INFO - closing application
+2023-01-12 17:44:31,967 - SauceDemo Application Module -INFO - launching application
+2023-01-12 17:44:31,973 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 17:44:35,316 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 17:44:38,561 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 17:44:38,571 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 17:44:38,666 - SauceDemo Application Module -INFO - enter password
+2023-01-12 17:44:38,755 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 17:44:47,155 - SauceDemo Application Module -INFO - closing application
+2023-01-12 17:45:26,702 - SauceDemo Application Module -INFO - launching application
+2023-01-12 17:45:26,710 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 17:45:29,586 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 17:45:32,817 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 17:45:32,826 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 17:45:32,922 - SauceDemo Application Module -INFO - enter password
+2023-01-12 17:45:33,019 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 17:45:41,442 - SauceDemo Application Module -INFO - closing application
+2023-01-12 17:46:54,833 - SauceDemo Application Module -INFO - launching application
+2023-01-12 17:46:54,842 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 17:46:58,390 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 17:47:01,636 - SauceDemo Application Module -INFO - before login application title should be Swag Labs
+2023-01-12 17:47:01,646 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 17:47:01,783 - SauceDemo Application Module -INFO - enter password
+2023-01-12 17:47:01,874 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 17:47:05,053 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 17:47:07,166 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 17:47:07,166 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 17:47:09,313 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-12 17:47:09,314 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 17:47:11,446 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 17:47:16,731 - SauceDemo Application Module -INFO - closing application
+2023-01-12 17:55:29,490 - SauceDemo Application Module -INFO - launching application
+2023-01-12 17:55:29,499 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 17:55:32,500 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 17:55:35,749 - SauceDemo Application Module -INFO - Before login application title should be Swag Labs
+2023-01-12 17:55:35,758 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 17:55:35,853 - SauceDemo Application Module -INFO - enter password
+2023-01-12 17:55:35,937 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 17:55:39,133 - SauceDemo Application Module -INFO - The Default Flter Dropdown is NAME (A TO Z)
+2023-01-12 17:55:39,133 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 17:55:41,241 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 17:55:41,242 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 17:55:43,387 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-12 17:55:43,387 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 17:55:45,513 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 17:55:50,706 - SauceDemo Application Module -INFO - closing application
+2023-01-12 18:01:05,524 - SauceDemo Application Module -INFO - launching application
+2023-01-12 18:01:05,542 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 18:01:08,712 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 18:01:11,989 - SauceDemo Application Module -INFO - Before login application title should be Swag Labs
+2023-01-12 18:01:11,997 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 18:01:12,092 - SauceDemo Application Module -INFO - enter password
+2023-01-12 18:01:12,180 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 18:01:15,398 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-12 18:01:15,426 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 18:01:17,580 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 18:01:17,581 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 18:01:19,706 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-12 18:01:19,706 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 18:01:21,830 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 18:01:27,049 - SauceDemo Application Module -INFO - closing application
+2023-01-12 18:02:30,581 - SauceDemo Application Module -INFO - launching application
+2023-01-12 18:02:30,592 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 18:02:33,513 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 18:02:36,754 - SauceDemo Application Module -INFO - Before login application title should be Swag Labs
+2023-01-12 18:02:36,764 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 18:02:36,862 - SauceDemo Application Module -INFO - enter password
+2023-01-12 18:02:36,952 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 18:02:40,154 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-12 18:02:40,171 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 18:02:42,309 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 18:02:42,311 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 18:02:44,446 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-12 18:02:44,446 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 18:02:46,574 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 18:02:51,763 - SauceDemo Application Module -INFO - closing application
+2023-01-12 20:15:02,621 - SauceDemo Application Module -INFO - launching application
+2023-01-12 20:15:02,627 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 20:15:07,173 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 20:15:10,416 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-12 20:15:10,425 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 20:15:10,522 - SauceDemo Application Module -INFO - enter password
+2023-01-12 20:15:10,607 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 20:15:13,805 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-12 20:15:13,827 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 20:15:15,928 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 20:15:15,928 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 20:15:18,043 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-12 20:15:18,043 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 20:15:20,162 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 20:15:25,306 - SauceDemo Application Module -INFO - closing application
+2023-01-12 20:26:27,428 - SauceDemo Application Module -INFO - launching application
+2023-01-12 20:26:27,441 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 20:26:36,997 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 20:26:40,222 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-12 20:26:40,237 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 20:26:40,416 - SauceDemo Application Module -INFO - enter password
+2023-01-12 20:26:40,548 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 20:26:43,832 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-12 20:26:43,852 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 20:26:45,955 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 20:26:45,955 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 20:26:48,051 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-12 20:26:48,051 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 20:26:50,155 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 20:26:55,266 - SauceDemo Application Module -INFO - closing application
+2023-01-12 20:31:28,747 - SauceDemo Application Module -INFO - launching application
+2023-01-12 20:31:28,760 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-12 20:31:32,996 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-12 20:31:36,214 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-12 20:31:36,223 - SauceDemo Application Module -INFO - enter userName
+2023-01-12 20:31:36,330 - SauceDemo Application Module -INFO - enter password
+2023-01-12 20:31:36,467 - SauceDemo Application Module -INFO - click on login button
+2023-01-12 20:31:39,721 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-12 20:31:39,741 - SauceDemo Application Module -INFO - Select First Product
+2023-01-12 20:31:41,867 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 20:31:41,867 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-12 20:31:43,994 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-12 20:31:43,995 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-12 20:31:46,105 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-12 20:32:07,414 - SauceDemo Application Module -INFO - closing application
