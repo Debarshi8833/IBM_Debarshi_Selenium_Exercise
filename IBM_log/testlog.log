@@ -453,3 +453,143 @@
 2023-01-12 20:31:43,995 - SauceDemo Application Module -INFO - Remove First Product
 2023-01-12 20:31:46,105 - SauceDemo Application Module -INFO - Cart Value is: 1
 2023-01-12 20:32:07,414 - SauceDemo Application Module -INFO - closing application
+2023-01-13 11:58:13,723 - SauceDemo Application Module -INFO - launching application
+2023-01-13 11:58:13,735 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-13 11:58:18,230 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-13 11:58:21,431 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-13 11:58:21,440 - SauceDemo Application Module -INFO - enter userName
+2023-01-13 11:58:21,547 - SauceDemo Application Module -INFO - enter password
+2023-01-13 11:58:21,638 - SauceDemo Application Module -INFO - click on login button
+2023-01-13 11:58:24,856 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-13 11:58:24,876 - SauceDemo Application Module -INFO - Select First Product
+2023-01-13 11:58:26,976 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 11:58:26,976 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-13 11:58:29,057 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-13 11:58:29,057 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-13 11:58:31,150 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 11:58:31,150 - SauceDemo Application Module -INFO - Click on Cart
+2023-01-13 11:58:36,441 - SauceDemo Application Module -INFO - closing application
+2023-01-13 12:05:31,638 - SauceDemo Application Module -INFO - launching application
+2023-01-13 12:05:31,644 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-13 12:05:35,657 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-13 12:05:38,853 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-13 12:05:38,864 - SauceDemo Application Module -INFO - enter userName
+2023-01-13 12:05:38,971 - SauceDemo Application Module -INFO - enter password
+2023-01-13 12:05:39,076 - SauceDemo Application Module -INFO - click on login button
+2023-01-13 12:05:42,271 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-13 12:05:42,293 - SauceDemo Application Module -INFO - Select First Product
+2023-01-13 12:05:44,397 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:05:44,397 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-13 12:05:46,512 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-13 12:05:46,513 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-13 12:05:48,594 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:05:50,607 - SauceDemo Application Module -INFO - Click on Cart
+2023-01-13 12:05:52,758 - SauceDemo Application Module -INFO - Added Product is Test.allTheThings() T-Shirt (Red)
+2023-01-13 12:05:57,938 - SauceDemo Application Module -INFO - closing application
+2023-01-13 12:12:31,888 - SauceDemo Application Module -INFO - launching application
+2023-01-13 12:12:31,894 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-13 12:12:35,661 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-13 12:12:38,852 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-13 12:12:38,859 - SauceDemo Application Module -INFO - enter userName
+2023-01-13 12:12:38,960 - SauceDemo Application Module -INFO - enter password
+2023-01-13 12:12:39,044 - SauceDemo Application Module -INFO - click on login button
+2023-01-13 12:12:42,251 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-13 12:12:42,275 - SauceDemo Application Module -INFO - Select First Product
+2023-01-13 12:12:44,391 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:12:44,391 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-13 12:12:46,497 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-13 12:12:46,498 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-13 12:12:48,588 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:12:50,590 - SauceDemo Application Module -INFO - Click on Cart
+2023-01-13 12:12:52,753 - SauceDemo Application Module -INFO - Added Product is: Test.allTheThings() T-Shirt (Red)
+2023-01-13 12:12:57,976 - SauceDemo Application Module -INFO - closing application
+2023-01-13 12:45:24,540 - SauceDemo Application Module -INFO - launching application
+2023-01-13 12:45:24,551 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-13 12:45:30,137 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-13 12:45:33,377 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-13 12:45:33,392 - SauceDemo Application Module -INFO - enter userName
+2023-01-13 12:45:33,577 - SauceDemo Application Module -INFO - enter password
+2023-01-13 12:45:33,735 - SauceDemo Application Module -INFO - click on login button
+2023-01-13 12:45:37,027 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-13 12:45:37,055 - SauceDemo Application Module -INFO - Select First Product
+2023-01-13 12:45:39,195 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:45:39,196 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-13 12:45:41,341 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-13 12:45:41,341 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-13 12:45:43,434 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:45:45,448 - SauceDemo Application Module -INFO - Click on Cart
+2023-01-13 12:45:47,624 - SauceDemo Application Module -INFO - Added Product is: Test.allTheThings() T-Shirt (Red)
+2023-01-13 12:45:47,651 - SauceDemo Application Module -INFO - Click on Continue Shopping
+2023-01-13 12:45:52,999 - SauceDemo Application Module -INFO - closing application
+2023-01-13 12:46:27,173 - SauceDemo Application Module -INFO - launching application
+2023-01-13 12:46:27,184 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-13 12:46:31,923 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-13 12:46:35,236 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-13 12:46:35,250 - SauceDemo Application Module -INFO - enter userName
+2023-01-13 12:46:35,404 - SauceDemo Application Module -INFO - enter password
+2023-01-13 12:46:35,532 - SauceDemo Application Module -INFO - click on login button
+2023-01-13 12:46:38,769 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-13 12:46:38,793 - SauceDemo Application Module -INFO - Select First Product
+2023-01-13 12:46:40,937 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:46:40,938 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-13 12:46:43,078 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-13 12:46:43,079 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-13 12:46:45,170 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:46:47,178 - SauceDemo Application Module -INFO - Click on Cart
+2023-01-13 12:46:49,319 - SauceDemo Application Module -INFO - Added Product is: Test.allTheThings() T-Shirt (Red)
+2023-01-13 12:46:49,339 - SauceDemo Application Module -INFO - Click on Continue Shopping
+2023-01-13 12:47:10,693 - SauceDemo Application Module -INFO - closing application
+2023-01-13 12:48:03,107 - SauceDemo Application Module -INFO - launching application
+2023-01-13 12:48:03,119 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-13 12:48:08,832 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-13 12:48:12,049 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-13 12:48:12,060 - SauceDemo Application Module -INFO - enter userName
+2023-01-13 12:48:12,204 - SauceDemo Application Module -INFO - enter password
+2023-01-13 12:48:12,322 - SauceDemo Application Module -INFO - click on login button
+2023-01-13 12:48:15,592 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-13 12:48:15,617 - SauceDemo Application Module -INFO - Select First Product
+2023-01-13 12:48:17,730 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:48:17,730 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-13 12:48:19,828 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-13 12:48:19,828 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-13 12:48:21,957 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:48:23,969 - SauceDemo Application Module -INFO - Click on Cart
+2023-01-13 12:48:26,126 - SauceDemo Application Module -INFO - Added Product is: Test.allTheThings() T-Shirt (Red)
+2023-01-13 12:48:26,147 - SauceDemo Application Module -INFO - Click on Continue Shopping
+2023-01-13 12:48:49,515 - SauceDemo Application Module -INFO - closing application
+2023-01-13 12:51:03,331 - SauceDemo Application Module -INFO - launching application
+2023-01-13 12:51:03,339 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-13 12:51:07,805 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-13 12:51:11,027 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-13 12:51:11,035 - SauceDemo Application Module -INFO - enter userName
+2023-01-13 12:51:11,127 - SauceDemo Application Module -INFO - enter password
+2023-01-13 12:51:11,212 - SauceDemo Application Module -INFO - click on login button
+2023-01-13 12:51:14,381 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-13 12:51:14,400 - SauceDemo Application Module -INFO - Select First Product
+2023-01-13 12:51:16,483 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:51:16,483 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-13 12:51:18,551 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-13 12:51:18,551 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-13 12:51:20,629 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:51:22,641 - SauceDemo Application Module -INFO - Click on Cart
+2023-01-13 12:51:24,725 - SauceDemo Application Module -INFO - Added Product is: Test.allTheThings() T-Shirt (Red)
+2023-01-13 12:51:24,741 - SauceDemo Application Module -INFO - Click on Continue Shopping
+2023-01-13 12:51:32,874 - SauceDemo Application Module -INFO - closing application
+2023-01-13 12:51:57,804 - SauceDemo Application Module -INFO - launching application
+2023-01-13 12:51:57,813 - SauceDemo Application Module -INFO - Application URL: https://saucedemo.com
+2023-01-13 12:52:02,046 - SauceDemo Application Module -INFO - Application launched successfully into chrome browser https://saucedemo.com
+2023-01-13 12:52:05,272 - SauceDemo Application Module -INFO - Before login application title is Swag Labs
+2023-01-13 12:52:05,287 - SauceDemo Application Module -INFO - enter userName
+2023-01-13 12:52:05,535 - SauceDemo Application Module -INFO - enter password
+2023-01-13 12:52:05,713 - SauceDemo Application Module -INFO - click on login button
+2023-01-13 12:52:09,034 - SauceDemo Application Module -INFO - After login The Default Flter Dropdown is NAME (A TO Z)
+2023-01-13 12:52:09,055 - SauceDemo Application Module -INFO - Select First Product
+2023-01-13 12:52:11,211 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:52:11,211 - SauceDemo Application Module -INFO - Select Last Product
+2023-01-13 12:52:13,316 - SauceDemo Application Module -INFO - Cart Value is: 2
+2023-01-13 12:52:13,317 - SauceDemo Application Module -INFO - Remove First Product
+2023-01-13 12:52:15,414 - SauceDemo Application Module -INFO - Cart Value is: 1
+2023-01-13 12:52:17,431 - SauceDemo Application Module -INFO - Click on Cart
+2023-01-13 12:52:19,592 - SauceDemo Application Module -INFO - Added Product is: Test.allTheThings() T-Shirt (Red)
+2023-01-13 12:52:19,612 - SauceDemo Application Module -INFO - Click on Continue Shopping
+2023-01-13 12:52:26,792 - SauceDemo Application Module -INFO - closing application

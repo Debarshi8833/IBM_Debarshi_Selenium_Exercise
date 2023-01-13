@@ -35,7 +35,15 @@ public class AddProduct extends BaseTest{
         pp.removefirstproduct();
         Thread.sleep(2000);
         log.info("Cart Value is: " + pp.cartvalue());
-                
+        Thread.sleep(2000);
+        log.info("Click on Cart");
+        pp.cart();
+        Thread.sleep(2000);
+        log.info("Added Product is: " + cp.addedproduct());
+        cp.verificationOfAddedProduct("Test.allTheThings() T-Shirt (Red)");
+        log.info("Click on Continue Shopping");
+        cp.continueshopping();
+        Thread.sleep(2000);
     }
 
 }

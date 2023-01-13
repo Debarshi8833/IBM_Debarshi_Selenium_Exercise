@@ -16,7 +16,7 @@ public class BaseTest {
 	public Logger log;
 	public LoginPage lp;
 	public ProductPage pp;
-	
+	public YourCartPage cp;
 
     @BeforeTest
     public void launchApp() throws Exception {
@@ -42,7 +42,7 @@ public class BaseTest {
         
         lp = new LoginPage(driver);
         pp = new ProductPage (driver);
-
+        cp = new YourCartPage (driver);
     }
 
     @AfterTest
